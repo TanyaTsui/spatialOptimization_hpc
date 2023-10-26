@@ -1,0 +1,24 @@
+{
+    "id": "7BCEBDAC",
+    "path": "~/Surfdrive/Documents/_PhD/_github/spatialOptimization_hpc/spatialAnnealing_parallel_hpc.R",
+    "project_path": "spatialAnnealing_parallel_hpc.R",
+    "type": "r_source",
+    "hash": "2317334150",
+    "contents": "",
+    "dirty": false,
+    "created": 1680247928934.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "86,0",
+        "scrollLine": "68"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680248172,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680248172737,
+    "read_only": false,
+    "read_only_alternatives": []
+}
